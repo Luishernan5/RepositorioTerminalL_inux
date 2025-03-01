@@ -53,7 +53,7 @@ function funcionCondicion (){
 #     echo "El archivo 2 es mas nuevo "
 # fi
 
-#un archivo es mas viejo que otro
+#un archivo es mas viejo que otro:
 if [ "archivo1.txt" -ot "archivo2.txt" ];then
     echo "El archivo 1 es ma viejo"
 fi
