@@ -15,7 +15,7 @@
 # for letra in {a..e}; do
 #     echo $letra
 # done
-
+#codigo:
 for archivo in /usr/bin/*zip; do
     echo $archivo
 done
