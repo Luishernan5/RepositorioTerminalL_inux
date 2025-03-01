@@ -1,7 +1,6 @@
 #!/bin/fish
 
-#esto es un comentario
-
+#esto es un comentario:
     numero1=$1
     numero2=$2
 funcion suma(){
